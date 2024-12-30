@@ -1,0 +1,40 @@
+{
+    "key": "group_5eeb56ea53c7e",
+    "title": "[Post Format] Audio",
+    "fields": [
+        {
+            "key": "field_5eeb56f9952f3",
+            "label": "Audio Link",
+            "name": "post_audio_link",
+            "type": "url",
+            "instructions": "Input your audio link here. Here are all the supported audio formats: <br>\r\n<a href=\"https:\/\/wordpress.org\/support\/article\/audio-shortcode\/#options\" target=\"_blank\">https:\/\/wordpress.org\/support\/article\/audio-shortcode\/#options<\/a><br>\r\n<a href=\"https:\/\/wordpress.org\/support\/article\/embeds\/#okay-so-what-sites-can-i-embed-from\" target=\"_blank\">https:\/\/wordpress.org\/support\/article\/embeds\/#okay-so-what-sites-can-i-embed-from<\/a>",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_format",
+                "operator": "==",
+                "value": "audio"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1592483372
+}

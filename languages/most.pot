@@ -1,0 +1,1123 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Most\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-19 09:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: most"
+
+#. 1: formatted order total 2: total order items
+#: woocommerce/myaccount/my-orders.php:75
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:43
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#. %s location.
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "<strong>Category:</strong>"
+msgid_plural "<strong>Categories:</strong>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "<strong>Tag:</strong>"
+msgid_plural "<strong>Tags:</strong>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: functions.php:65
+msgid "Accent"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:46
+#: inc/framework/setup/section-colors.php:375
+msgid "Accent Color"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:63
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: inc/theme-required-plugins.php:18
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: woocommerce/cart/cart.php:149 woocommerce/checkout/form-coupon.php:38
+#: woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:97
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:116
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:46
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/framework/setup/section-general.php:25
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:61
+msgid "Background Blur Effect"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:281
+#: inc/framework/setup/section-colors.php:610
+msgid "Background Color"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:23
+msgid "Background conrols are pretty complex! (but useful if used properly)"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:22
+msgid "Background Control"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: functions.php:75
+msgid "Black"
+msgstr ""
+
+#: inc/theme-actions.php:11
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/theme-actions.php:13
+msgid "Blog Widget Area"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:13
+msgid "Button"
+msgstr ""
+
+#. %s: Comment author.
+#: woocommerce/content-widget-reviews.php:38
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: comments.php:41
+msgid "Cancel Reply"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:52
+msgid "Center"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: inc/framework/setup/section-footer.php:11
+#: inc/framework/setup/section-menu.php:56
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: template-parts/menu/button.php:10
+msgid "Close"
+msgstr ""
+
+#: inc/theme-elementor.php:110
+msgid "Color"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:187
+#: inc/framework/setup/section-colors.php:516
+msgid "Color Contrast Low"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:234
+#: inc/framework/setup/section-colors.php:563
+msgid "Color Contrast Lower"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:140
+#: inc/framework/setup/section-colors.php:469
+msgid "Color Contrast Medium"
+msgstr ""
+
+#: inc/framework/customizer.php:102
+msgid "Colors"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/theme-functions.php:530
+#, php-format
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: inc/theme-required-plugins.php:38
+msgid "Contact Form 7"
+msgstr ""
+
+#: single.php:58
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: functions.php:80
+msgid "Contrast"
+msgstr ""
+
+#: functions.php:90
+msgid "Contrast lower"
+msgstr ""
+
+#: functions.php:85
+msgid "Contrast Medium"
+msgstr ""
+
+#: woocommerce/cart/cart.php:149 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: inc/theme-functions.php:161
+msgid "Create a Template First"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#. Name of the template
+msgid "Custom Page No Footer"
+msgstr ""
+
+#. Name of the template
+msgid "Custom Page Template"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:17
+msgid "Dark Mode"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Date"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:29
+#: woocommerce/checkout/thankyou.php:52
+msgid "Date:"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:38
+#: inc/framework/setup/section-menu.php:12
+msgid "Default"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
+
+#: template-parts/page/page-none.php:22
+msgid "didnt return any results."
+msgstr ""
+
+#: inc/framework/setup/section-header.php:8
+#: inc/framework/setup/section-logo.php:8
+msgid "Dimensions Control"
+msgstr ""
+
+#: inc/framework/setup/section-footer.php:25
+#: inc/framework/setup/section-footer.php:39
+#: inc/framework/setup/section-general.php:17
+#: inc/framework/setup/section-general.php:31
+#: inc/framework/setup/section-general.php:45
+#: inc/framework/setup/section-header.php:67
+#: inc/framework/setup/section-header.php:81
+#: inc/framework/setup/section-header.php:97
+msgid "Disable"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: inc/theme-functions.php:483
+msgid "Edit"
+msgstr ""
+
+#: single.php:67
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/theme-required-plugins.php:12
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: comments.php:46 woocommerce/single-product-reviews.php:83
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Email:"
+msgstr ""
+
+#: inc/framework/setup/section-footer.php:24
+#: inc/framework/setup/section-footer.php:38
+#: inc/framework/setup/section-general.php:16
+#: inc/framework/setup/section-general.php:30
+#: inc/framework/setup/section-general.php:44
+#: inc/framework/setup/section-header.php:66
+#: inc/framework/setup/section-header.php:80
+#: inc/framework/setup/section-header.php:96
+msgid "Enable"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#. Filter: verb "to filter"
+#: woocommerce/content-widget-price-filter.php:30
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:39
+msgid "Fixed"
+msgstr ""
+
+#: inc/framework/customizer.php:75
+msgid "Footer"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:328
+#: inc/framework/setup/section-colors.php:657
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/framework/setup/section-logo.php:35
+msgid "For Dark Theme Mode"
+msgstr ""
+
+#: inc/framework/setup/section-logo.php:46
+msgid "For Light Theme Mode"
+msgstr ""
+
+#: inc/framework/customizer.php:23
+msgid "General"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+msgid "Good"
+msgstr ""
+
+#: inc/framework/customizer.php:115
+msgid "Google Map"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:63
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: inc/framework/customizer.php:36
+msgid "Header"
+msgstr ""
+
+#: 404.php:18
+msgid "homepage."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/madsparrow"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/madsparrow/portfolio"
+msgstr ""
+
+#: functions.php:125
+msgid "Huge"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: inc/framework/setup/section-logo.php:45
+msgid "Image Logo Dark"
+msgstr ""
+
+#: inc/framework/setup/section-logo.php:34
+msgid "Image Logo Light"
+msgstr ""
+
+#: template-parts/page/page-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Your search for "
+"\""
+msgstr ""
+
+#: inc/theme-required-plugins.php:32
+msgid "Kirki"
+msgstr ""
+
+#: functions.php:120
+msgid "L"
+msgstr ""
+
+#: functions.php:119
+msgid "Large"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: index.php:26
+msgid "Latest Stories"
+msgstr ""
+
+#: comments.php:35
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:40
+msgid "Leave a reply to"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:65
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/elementor/column.php:70 inc/framework/setup/section-header.php:51
+msgid "Left"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:16
+msgid "Light Mode"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51 woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: inc/framework/customizer.php:49
+msgid "Logo"
+msgstr ""
+
+#: woocommerce/global/form-login.php:54 woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: functions.php:114
+msgid "M"
+msgstr ""
+
+#. Author of the theme
+msgid "Mad Sparrow"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:28
+msgid "Max price"
+msgstr ""
+
+#: inc/theme-required-plugins.php:50
+msgid "MC4WP: Mailchimp for WordPress"
+msgstr ""
+
+#: template-parts/header/header.php:57 template-parts/menu/button.php:9
+msgid "Menu"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:48
+msgid "Menu Align"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:53
+msgid "Menu Contacts"
+msgstr ""
+
+#: inc/framework/setup/section-menu.php:9
+msgid "Menu Variation"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:27
+msgid "Min price"
+msgstr ""
+
+#: inc/elementor/column.php:94
+msgid "Min Width"
+msgstr ""
+
+#. Name of the theme
+msgid "Most"
+msgstr ""
+
+#: inc/theme-required-plugins.php:25
+msgid "Most Helper Plugin"
+msgstr ""
+
+#: inc/framework/customizer.php:14
+msgid "Most Theme Options"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Most – brings your site to life with immersive featured images and subtle "
+"animations. With a focus on portfolio sites, it features multiple sections "
+"on the front page as well as widgets, navigation and social menus, a logo, "
+"and more. Personalize its asymmetrical grid with a custom color scheme and "
+"showcase your multimedia content with post formats. Our theme works great in "
+"many languages, for any abilities, and on any device."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "My account"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "N/A"
+msgstr ""
+
+#: comments.php:45 woocommerce/single-product-reviews.php:77
+msgid "Name"
+msgstr ""
+
+#: inc/theme-elementor.php:45 inc/theme-elementor.php:52
+msgid "Navbar Offset"
+msgstr ""
+
+#: inc/theme-elementor.php:61
+msgid "Navbar Offset (With Padding)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: single.php:97
+msgid "Next Article"
+msgstr ""
+
+#: inc/theme-functions.php:650 inc/theme-functions.php:673
+msgid "Next Project"
+msgstr ""
+
+#: template-parts/page/page-none.php:12
+msgid "No matches found"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:111
+msgid "No products in the cart."
+msgstr ""
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:70
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: functions.php:113
+msgid "Normal"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Not that bad"
+msgstr ""
+
+#: inc/theme-required-plugins.php:56
+msgid "One Click Demo Import"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Order"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:25
+#: woocommerce/checkout/thankyou.php:47
+msgid "Order number:"
+msgstr ""
+
+#: template-parts/page/page-content.php:39
+msgid "Page"
+msgstr ""
+
+#: inc/framework/setup/section-general.php:11
+msgid "Page transition"
+msgstr ""
+
+#: inc/theme-functions.php:539 template-parts/page/page-content.php:35
+msgid "Pages:"
+msgstr ""
+
+#: inc/framework/setup/section-footer.php:19
+msgid "Parallax Effect"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38 woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:38
+#: woocommerce/checkout/thankyou.php:70
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: comments.php:34
+msgid "Post Comment"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: inc/theme-functions.php:691 inc/theme-functions.php:708
+msgid "Previous"
+msgstr ""
+
+#: single.php:85
+msgid "Previous Article"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:102
+msgid "Price"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:32
+msgid "Price:"
+msgstr ""
+
+#: functions.php:60
+msgid "Primary"
+msgstr ""
+
+#: inc/framework/setup/section-typography.php:8
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:15
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:93
+#: inc/framework/setup/section-colors.php:422
+msgid "Primary Text Color"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:82
+msgid "Product"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:108
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+msgid "Rate&hellip;"
+msgstr ""
+
+#: archive.php:54 search.php:57 template-parts/excerpt/excerpt-content.php:63
+msgid "Read More"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:37
+msgid "Recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:107
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr ""
+
+#: single.php:112
+msgid "Related Posts"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/global/form-login.php:47 woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/cart/cart.php:61 woocommerce/cart/mini-cart.php:50
+msgid "Remove this item"
+msgstr ""
+
+#: inc/elementor/column.php:82
+msgid "Reset Mobile"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:35
+msgid "Return to shop"
+msgstr ""
+
+#: inc/elementor/column.php:71 inc/framework/setup/section-header.php:53
+msgid "Right"
+msgstr ""
+
+#: inc/framework/setup/section-footer.php:33
+msgid "Round Corners"
+msgstr ""
+
+#: functions.php:108
+msgid "S"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr ""
+
+#: search.php:20
+msgid "Search results: "
+msgstr ""
+
+#: searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: inc/framework/setup/section-typography.php:29
+msgid "Secondary Font"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: inc/theme-functions.php:153
+msgid "Select a Template"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: inc/framework/setup/section-footer.php:8
+msgid "Select Footer Template"
+msgstr ""
+
+#: inc/framework/setup/section-colors.php:11
+msgid "Select Website Mode"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: inc/theme-actions.php:24
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/theme-actions.php:26
+msgid "Shop Widget Area"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:91
+msgid "Show Cart"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:75
+msgid "Show Search"
+msgstr ""
+
+#: inc/elementor/column.php:66
+msgid "Side"
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "SKU:"
+msgstr ""
+
+#: functions.php:107
+msgid "Small"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Status"
+msgstr ""
+
+#: inc/elementor/column.php:46
+msgid "Sticky Column"
+msgstr ""
+
+#: inc/elementor/column.php:56
+msgid "Stretch"
+msgstr ""
+
+#: inc/framework/setup/section-header.php:35
+msgid "Style"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/product-searchform.php:33
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30 woocommerce/cart/cart-totals.php:31
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:131
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: functions.php:70
+msgid "Success"
+msgstr ""
+
+#: inc/framework/setup/section-google.php:8
+msgid "Text Control"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42 woocommerce/checkout/thankyou.php:84
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"The page you are looking for does not exist. How you got here is a mystery. "
+"Go back to the"
+msgstr ""
+
+#: inc/framework/setup/section-general.php:39
+msgid "Theme Mode Switcher"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:52
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98 woocommerce/cart/cart-totals.php:99
+#: woocommerce/checkout/review-order.php:103
+#: woocommerce/myaccount/my-orders.php:17
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:33
+#: woocommerce/checkout/thankyou.php:64
+msgid "Total:"
+msgstr ""
+
+#: template-parts/page/page-none.php:24
+msgid "Try a new search:"
+msgstr ""
+
+#: inc/framework/customizer.php:89
+msgid "Typography"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "Update"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:38
+msgid "verified owner"
+msgstr ""
+
+#: inc/theme-elementor.php:79 inc/theme-elementor.php:86
+msgid "Vertical Lines"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:118
+msgid "Very poor"
+msgstr ""
+
+#: functions.php:95
+msgid "White"
+msgstr ""
+
+#: 404.php:16
+msgid "Whoops, that page is gone."
+msgstr ""
+
+#: inc/theme-required-plugins.php:44
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:126
+msgid "XL"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:108
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: comments.php:47
+msgid "Your Comment"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:122
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: inc/theme-elementor.php:95
+msgid "Z-Index"
+msgstr ""

@@ -1,0 +1,41 @@
+{
+    "key": "group_5eeb5caba19cf",
+    "title": "[Post Format] Video",
+    "fields": [
+        {
+            "key": "field_5eeb5caba7e0a",
+            "label": "Video Link",
+            "name": "post_video_link",
+            "type": "url",
+            "instructions": "Input your video link here. Here are all the supported video formats: <br>\r\n<a href=\"https:\/\/wordpress.org\/support\/article\/video-shortcode\/#options\" target=\"_blank\">https:\/\/wordpress.org\/support\/article\/video-shortcode\/#options<\/a><br>\r\n<a href=\"https:\/\/wordpress.org\/support\/article\/embeds\/#okay-so-what-sites-can-i-embed-from\" target=\"_blank\">https:\/\/wordpress.org\/support\/article\/embeds\/#okay-so-what-sites-can-i-embed-from<\/a>",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_format",
+                "operator": "==",
+                "value": "video"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "acf_after_title",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1654779380
+}
